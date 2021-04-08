@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Chefkj
+- 👀 I’m interested Music and Computer Science
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on Music and Music collaboration tools
+- 📫 Reach me at kwcbydefeat@gmail.com
